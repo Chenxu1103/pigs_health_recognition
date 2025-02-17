@@ -1,5 +1,7 @@
 # pigs_health_recognition
 This project implements a pig health monitoring system using audio-visual fusion and deep learning. It combines audio signals (coughing, breathing) and video data (behavioral changes) for accurate, real-time health assessment. The system features noise robustness, real-time performance, and cross-modal knowledge distillation.
+![frame_72](https://github.com/user-attachments/assets/01838569-da61-4e83-9125-7a3e55e6313d)
+
 
 
 # 猪只健康状况检测系统技术说明文档

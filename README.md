@@ -351,4 +351,6 @@ except Exception as e:
    - 优化检测阈值
    - 增加光流分析精度
 
+详情可以联系：626291605@qq.com
+
 [技术说明文档.md](https://github.com/user-attachments/files/18822118/default.md)
